@@ -1,0 +1,14 @@
+name: WEWandOff
+version: 0.0.1
+main: me.sgray.plugin.wewandoff.WandOff
+author: SGray
+website: http://sgray.me
+softdepend: [WorldEdit]
+
+permissions:
+  wandoff.showalert:
+    description: Allows player to receive message about their changed wand state
+    default: false
+  wandoff.override:
+    description: Makes a player immune to having their wand disabled at login
+    default: false
