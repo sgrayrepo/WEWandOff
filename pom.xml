@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.sgray.plugin</groupId>
   <artifactId>WEWandOff</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>jar</packaging>
   <name>WEWandOff</name>
   <repositories>
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>org.bukkit</groupId>
       <artifactId>bukkit</artifactId>
-      <version>[1.7.2-R0.3,]</version>
+      <version>[1.7.5-R0.1-SNAPSHOT,]</version>
     </dependency>
     <dependency>
       <groupId>com.sk89q</groupId>
